@@ -1,0 +1,58 @@
+.home-container {
+    padding: 2rem;
+    color: #fff;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    margin: 2rem auto;
+    border-radius: 16px;
+    width: 90%;
+    max-width: 900px;
+  }
+  
+  .brand-name {
+    color: #66D3AE;
+    font-weight: bold;
+  }
+  
+  .intro-text {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    font-style: italic;
+  }
+  
+  .tips-section, .news-section {
+    margin-top: 2rem;
+    text-align: left;
+  }
+  
+  .tips-section h2, .news-section h2 {
+    color: #f0f0f0;
+    margin-bottom: 1rem;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  li {
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+  }
+  .slider-section {
+    width: 100%;
+    max-width: 700px;
+    margin: 2rem auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .slide img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    display: block;
+    border-radius: 12px;
+  }
+  
